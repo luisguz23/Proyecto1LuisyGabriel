@@ -1,0 +1,72 @@
+<Canciones>
+	<Cancion id = '1'>
+		<Artista> Nirvana </Artista>
+		<Genero> Rock </Genero> 
+		<Year> 1991 </Year>
+		<Lyrics> Smells Like Teen Spirit </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '2'>
+		<Artista> Nirvana </Artista>
+		<Genero> Rock </Genero> 
+		<Year> 1991 </Year>
+		<Lyrics> Something In The Way </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '3'>
+		<Artista> Artic Monkeys </Artista>
+		<Genero> Pop </Genero> 
+		<Year> 2013 </Year>
+		<Lyrics> Do I Wanna Know </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '4'>
+		<Artista> The White Stripes </Artista>
+		<Genero> Rock </Genero> 
+		<Year> 2003 </Year>
+		<Lyrics> Seven Nation Army </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '5'>
+		<Artista> Dr.Dre </Artista>
+		<Genero> Rap </Genero> 
+		<Year> 1999 </Year>
+		<Lyrics> Still DRE </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '6'>
+		<Artista> Coolio </Artista>
+		<Genero> Rap </Genero> 
+		<Year> 1995 </Year>
+		<Lyrics> Gangstas Paradise </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '7'>
+		<Artista> Rob Stone </Artista>
+		<Genero> Rap </Genero> 
+		<Year> 2014 </Year>
+		<Lyrics> Chill Bill </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '8'>
+		<Artista> Los Cuates de Sinaloa </Artista>
+		<Genero> Corridos </Genero> 
+		<Year> 2010 </Year>
+		<Lyrics> Negro y Azul </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '9'>
+		<Artista> Maroon 5 </Artista>
+		<Genero> Pop </Genero> 
+		<Year> 2002 </Year>
+		<Lyrics> This Love </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+	<Cancion id = '10'>
+		<Artista> Maroon 5 </Artista>
+		<Genero> Pop </Genero> 
+		<Year> 2002 </Year>
+		<Lyrics> Sunday Morning </Lyrics>
+		<url> C:\Users\luisg\OneDrive\Documentos\TEC\2022\Segundo semestre 2022\Datos I\Proyectos\Proyecto1LuisyGabriel\music </url>
+	</Cancion>
+</Canciones>

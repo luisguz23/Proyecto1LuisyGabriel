@@ -9,6 +9,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
 
+import java.io.File;
 import java.io.IOException;
 
 
@@ -34,6 +35,7 @@ public class Main extends Application {
     }
 
     public static void main(String[] args) {
+        File file = new File("./music/Los Cuates de Sinaloa   Negro Y Azul (From Breaking Bad.mp3");
         launch(args);
     }
 }
